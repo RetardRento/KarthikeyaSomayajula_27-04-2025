@@ -34,3 +34,4 @@ tensorboard==2.15.1
 traitlets==5.14.3
 websockets==15.0.1
 wheel==0.45.1
+uvicorn==4.13.2
