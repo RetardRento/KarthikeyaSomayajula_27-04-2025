@@ -1,0 +1,81 @@
+.lightning_studio
+.bash_history
+.env
+this_studio.iml
+settings.json
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+*.deb
+*.rpm
+*.tar.gz
+*.whl
+
+# Environments
+.venv
+venv
+env
+ENV
+*.env
+
+# PyInstaller
+#  Usually these files are built in a _MEIPASS folder, but if you give the --onefile
+#  option, they will end up in the dist folder.
+/dist
+/build
+/.pyinstaller
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+*.coverage
+*.log
+nosetests.xml
+pytest.xml
+*.junitxml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.db
+local_settings.py*
+secret.key*
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx stuff:
+docs/_build
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+*.tmp
+*.user
+*.DS_Store
+.vscode/
+
+# OS generated files
+Thumbs.db
