@@ -103,16 +103,6 @@ python test.py
 
 Follow the on-screen options to send requests and download reports.
 
----
-
-## 🧹 Good Practices
-
-- ✅ Ensure your PostgreSQL database is running and accessible.
-- ✅ Check your `.env` values before starting the server.
-- ✅ (Optional) Use a Python virtual environment to isolate project dependencies.
-
----
-
 ## 📬 Contact
 
 **Karthikeya Somayajula**  
